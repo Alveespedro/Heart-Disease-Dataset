@@ -1,6 +1,6 @@
 # Heart Disease Dataset
 
-Repositório criado com dados do Kaggle 
+Repositório criado com dados do Kaggle:
 
-Usando modelos de treino para identificar a incidência de doenças cardíacas em homens e mulheres, classificados por faixa etária
+Neste repositório, e usado dados de treino para aprimorar o modelo de machine learning, afim de identificar a incidência de doenças cardíacas em homens e mulheres, classificados por faixa etária
 
