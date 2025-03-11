@@ -6,7 +6,7 @@ Neste repositório, e usado dados de treino para aprimorar o modelo de machine l
 
 Neste projeto foram usados ferramentas como:
 
-✅ Python 🐍
-✅ Pandas 📊
-✅ Seaborn e Matplotlib 📈
+Python 🐍
+Pandas 📊
+Seaborn e Matplotlib 📈
 
